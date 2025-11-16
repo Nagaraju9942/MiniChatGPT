@@ -1,0 +1,68 @@
+/* Sidebar container */
+.sidebar {
+  width: 240px;
+  background-color: #111;
+  color: white;
+  height: 100%;
+  padding: 16px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+/* New Chat button */
+.new-chat-btn {
+  padding: 10px;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px;
+  transition: 0.2s;
+}
+
+.new-chat-btn:hover {
+  background-color: #357ac4;
+}
+
+/* Sidebar header */
+.sidebar-title {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+/* Chats list */
+.session-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* Each chat link */
+.session-item {
+  padding: 8px 10px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: white;
+  transition: 0.2s;
+  font-size: 15px;
+}
+
+.session-item:hover {
+  background-color: #2a2a2a;
+}
+
+/* Active chat highlight */
+.active-session {
+  background-color: #333;
+  font-weight: bold;
+}
+
+/* Empty text */
+.empty-text {
+  color: #bbb;
+  font-size: 14px;
+  margin-top: 10px;
+}

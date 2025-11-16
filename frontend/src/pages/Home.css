@@ -1,0 +1,10 @@
+.button{
+    height: 100px;
+    width: 2000px;
+}
+.button-container{
+    text-align: center;
+}
+.container{
+    display: flex;
+}

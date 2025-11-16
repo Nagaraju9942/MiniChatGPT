@@ -1,0 +1,39 @@
+[
+  {
+    "role": "system",
+    "question": null,
+    "response": "Welcome! Ask a question to start the chat.",
+    "table": [],
+    "timestamp": 1763290387164
+  },
+  {
+    "question": "name",
+    "response": "This is a mock response",
+    "table": [
+      {
+        "key": "Column A",
+        "value": "Value 1"
+      },
+      {
+        "key": "Column B",
+        "value": "Value 2"
+      }
+    ],
+    "timestamp": 1763290397834
+  },
+  {
+    "question": "cycc",
+    "response": "This is a mock response",
+    "table": [
+      {
+        "key": "Column A",
+        "value": "Value 1"
+      },
+      {
+        "key": "Column B",
+        "value": "Value 2"
+      }
+    ],
+    "timestamp": 1763290406811
+  }
+]

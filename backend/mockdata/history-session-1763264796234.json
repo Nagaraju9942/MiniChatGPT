@@ -1,0 +1,36 @@
+[
+  {
+    "question": "nojoooj",
+    "response": "This is a mock response",
+    "table": [
+      {
+        "key": "Column A",
+        "value": "Value 1"
+      },
+      {
+        "key": "Column B",
+        "value": "Value 2"
+      }
+    ],
+    "timestamp": 1763283615248,
+    "feedback": "dislike",
+    "feedbackAt": 1763285099096
+  },
+  {
+    "question": "nopj",
+    "response": "This is a mock response",
+    "table": [
+      {
+        "key": "Column A",
+        "value": "Value 1"
+      },
+      {
+        "key": "Column B",
+        "value": "Value 2"
+      }
+    ],
+    "timestamp": 1763285092312,
+    "feedback": "dislike",
+    "feedbackAt": 1763285096583
+  }
+]

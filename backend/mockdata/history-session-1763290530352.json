@@ -1,0 +1,11 @@
+[
+  {
+    "role": "system",
+    "question": null,
+    "response": "Welcome! Ask a question to start the chat.",
+    "table": [],
+    "timestamp": 1763290530356,
+    "feedback": "like",
+    "feedbackAt": 1763290544004
+  }
+]

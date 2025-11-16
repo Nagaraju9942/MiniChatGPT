@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Hello",
+    "response": "Hi, this is a mock response",
+    "table": [
+      { "key": "Column A", "value": "Value A" }
+    ],
+    "timestamp": 1690000000000
+  }
+]
